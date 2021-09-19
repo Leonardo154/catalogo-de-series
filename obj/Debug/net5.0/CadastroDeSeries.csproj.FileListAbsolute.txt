@@ -1,0 +1,31 @@
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\CadastroDeSeries.exe
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\CadastroDeSeries.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\CadastroDeSeries.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\CadastroDeSeries.runtimeconfig.dev.json
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\ref\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\bin\Debug\net5.0\CadastroDeSeries.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\ref\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\dotnet Teste\obj\Debug\net5.0\CadastroDeSeries.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\CadastroDeSeries.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\CadastroDeSeries.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\CadastroDeSeries.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\CadastroDeSeries.runtimeconfig.dev.json
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\ref\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\bin\Debug\net5.0\CadastroDeSeries.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\ref\CadastroDeSeries.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Catalogo de Series\obj\Debug\net5.0\CadastroDeSeries.genruntimeconfig.cache
