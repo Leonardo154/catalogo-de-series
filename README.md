@@ -1,2 +1,2 @@
-# catalogo-de-series
+# Catalogo de Séries
 Catalogo de series em dotnet.
